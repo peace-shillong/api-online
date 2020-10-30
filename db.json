@@ -1,0 +1,15 @@
+{
+  "posts": [
+    { "id": 1, "title": "Hello Peace!" },
+    { "id": 2, "title": "How are you doing in Mars?" },
+    { "id": 3, "title": "Hope to see you soon..." },
+    { "id": 4, "title": "Hope to see you soon..." }
+  ],
+  "comments": [
+    { "id": 1, "body": "Hey!", "postId": 1 },
+    { "id": 2, "body": "This is good", "postId": 1 }
+  ],
+  "profile": {
+    "name": "peace"
+  }
+}
