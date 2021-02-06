@@ -29,5 +29,38 @@
       "villagecode":"274928",
       "villagedetailsid":"4"
   }
-  ]
+  ],
+  "part1anx2":[
+    {
+      "practitionerid":"APP_1_1_01",
+      "practitionername":"Test",
+      "age":25,
+      "gender":"Male",
+      "address":"Test",
+      "specializearea":"Test",
+      "materiallocation":"Test",
+      "perception":"",
+      "medicinaluse":"",
+      "remark":"",
+      "villagedetailsid":"1",
+      "usercode":"1",
+      "entrydate":"2020-01-02"
+    
+    },
+    {
+      "practitionerid":"APP_1_1_11",
+      "practitionername":"Part 2",
+      "age":25,
+      "gender":"Female",
+      "address":"Test",
+      "specializearea":"Test",
+      "materiallocation":"Test",
+      "perception":"",
+      "medicinaluse":"",
+      "remark":"",
+      "villagedetailsid":"1",
+      "usercode":"1",
+      "entrydate":"2020-01-02"
+    }
+    ]
 }
