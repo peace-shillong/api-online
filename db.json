@@ -66,16 +66,8 @@
   "p1anx2single":{
       "practitionerid":"APP_1_1_01",
       "practitionername":"Test",
-      "age":25,
       "gender":"Male",
-      "address":"Test",
-      "specializearea":"Test",
-      "materiallocation":"Test",
-      "perception":"",
-      "medicinaluse":"",
-      "remark":"",
       "villagedetailsid":"1",
-      "usercode":"1",
       "entrydate":"2020-01-02"
     }
 }
