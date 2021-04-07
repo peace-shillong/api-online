@@ -31,12 +31,50 @@
   }
   ],
   "part1anx2single":
+  [
   {
-      "practitionerid":"APP_1_1_01",
-      "practitionername":"Test",
-      "villagedetailsid":"1",
-      "usercode":"1",
-      "entrydate":"2020-01-02"
-    
-    }
+    "Name": "West Garo Hills",
+    "id": "293"
+  },
+  {
+    "Name": "East Garo Hills",
+    "id": "294"
+  },
+  {
+    "Name": "South Garo Hills",
+    "id": "295"
+  },
+  {
+    "Name": "West Khasi Hills",
+    "id": "296"
+  },
+  {
+    "Name": "Ribhoi",
+    "id": "297"
+  },
+  {
+    "Name": "East Khasi Hills",
+    "id": "298"
+  },
+  {
+    "Name": "West Jaintia Hills",
+    "id": "299"
+  },
+  {
+    "Name": "East Jaintia Hills",
+    "id": "300"
+  },
+  {
+    "Name": "North Garo Hills",
+    "id": "301"
+  },
+  {
+    "Name": "South West Khasi Hills",
+    "id": "302"
+  },
+  {
+    "Name": "South West Garo Hills",
+    "id": "303"
+  }
+]
 }
