@@ -1,9 +1,9 @@
 {
   "posts": [
-    { "id": 1, "title": "Hello Peace!" },
-    { "id": 2, "title": "How are you doing in Mars?" },
-    { "id": 3, "title": "Hope to see you soon..." },
-    { "id": 4, "title": "Hope to see you soon..." }
+    { "id": 1, "title": "Hello Peace!","body":"This is a hello post" },
+    { "id": 2, "title": "How are you doing?","body":"This is a second post with basic paragraph and nothing more" },
+    { "id": 3, "title": "Happy New Year!", "body":"This is a third post with basic paragraph and nothing more" },
+    { "id": 4, "title": "Get Well Soon!","body":"This is the last post with basic paragraph and nothing more"  }
   ],
   "comments": [
     { "id": 1, "body": "Hey!", "postId": 1 },
